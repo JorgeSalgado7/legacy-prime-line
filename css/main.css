@@ -1,4 +1,5 @@
 @import url("//hello.myfonts.net/count/3b15a5");
+@import url("https://fonts.googleapis.com/css2?family=Gloock&display=swap");
 @import "https://use.typekit.net/fzb5jhn.css";
 @font-face {
   font-family: "mr-eaves";
@@ -1793,7 +1794,7 @@
   font-weight: 300; }
 
 h1, h2, h3, h4 {
-  font-family: 'garamond-premier-pro-display', sans-serif;
+  font-family: 'Gloock', serif;
   font-weight: 400; }
 
 button {
