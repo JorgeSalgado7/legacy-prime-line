@@ -373,7 +373,7 @@
     width: 68px;
     height: 68px;
     color: #FFFFFF;
-    background-color: #102729;
+    background-color: #000000;
     font-size: 30px;
     display: flex;
     align-items: center;
@@ -383,7 +383,7 @@
     .estates_estates__carousel .swiper-button-prev:hover,
     .estates_estates__carousel .swiper-button-next:hover {
       background-color: #FFFFFF;
-      color: #102729; }
+      color: #000000; }
   .estates_estates__carousel__img_box {
     width: 100%;
     max-width: 548px;
