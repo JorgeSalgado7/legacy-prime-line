@@ -74,7 +74,7 @@
 			</div>
 
 			<button class="estates_accommodations_hotel__white__img" id="estatesOneBedroomButton" onclick="openEstatesOneBedroomModal()">
-				<img src="../img/accommodations/bedrooms/Royal 1BD/02-UNIDAD-ROYAL-1BR-AP.webp" alt="">
+				<img src="../img/accommodations/bedrooms/legacy-suite.webp" alt="">
 				<div class="estates_accommodations_hotel__white__img__button">
 					<img src="../img/accommodations/plan.png" alt="">
 					view floorplan
@@ -96,7 +96,7 @@
 			<h1 class="estates_accommodations_hotel__modal__title">Legacy Suite</h1>
 		</div>
 
-		<img src="../img/accommodations/floorplans/01-UNIDAD-ROYAL-1BR.webp" alt="">
+		<img src="../img/accommodations/floorplans/legacy-suite-floorplan.webp" alt="">
 
 	</div>
 
@@ -111,7 +111,7 @@
 		<div class="container">
 
 			<button class="estates_accommodations_hotel__green__img" onclick="openEstatesTwoBedroomModal()">
-				<img src="../img/accommodations/bedrooms/Royal 2BD/03-UNIDAD-ROYAL-2BR-REC.webp" alt="">
+				<img src="../img/accommodations/bedrooms/legacy-master-suite.webp" alt="">
 
 				<div class="estates_accommodations_hotel__green__img__button">
 					<img src="../img/accommodations/plan.png" alt="">
@@ -150,7 +150,7 @@
 			<h1 class="estates_accommodations_hotel__modal__title">Legacy Master Suite</h1>
 		</div>
 
-		<img src="../img/accommodations/floorplans/01-UNIDAD-ROYAL-2BR.webp" alt="">
+		<img src="../img/accommodations/floorplans/legacy-master-suite-floorplan.webp" alt="">
 
 	</div>
 
@@ -181,7 +181,7 @@
 			</div>
 
 			<button class="estates_accommodations_hotel__white__img" onclick="openEstatesThreeBedroomModal()">
-				<img src="../img/accommodations/bedrooms/Royal 3BD/03-UNIDAD-ROYAL-3BR-REC.webp" alt="">
+				<img src="../img/accommodations/bedrooms/grand-legacy-junior-master-suite.webp" alt="">
 
 				<div class="estates_accommodations_hotel__white__img__button">
 					<img src="../img/accommodations/plan.png" alt="">
@@ -204,7 +204,7 @@
 			<h1 class="estates_accommodations_hotel__modal__title">Grand Legacy Junior Suite</h1>
 		</div>
 
-		<img src="../img/accommodations/floorplans/01-UNIDAD-ROYAL-3BR.webp" alt="">
+		<img src="../img/accommodations/floorplans/grand-legacy-junior-master-suite-floorplan.webp" alt="">
 
 	</div>
 
@@ -219,7 +219,7 @@
 		<div class="container">
 
 			<button class="estates_accommodations_hotel__green__img" onclick="openVillaLegacyModal()">
-				<img src="../img/accommodations/bedrooms/Royal 4BD/03-UNIDAD-ROYAL-4BR-REC-KS.webp" alt="">
+				<img src="../img/accommodations/bedrooms/grand-legacy-suite.webp" alt="">
 
 				<div class="estates_accommodations_hotel__green__img__button">
 					<img src="../img/accommodations/plan.png" alt="">
@@ -258,7 +258,7 @@
 			<h1 class="estates_accommodations_hotel__modal__title">Grand Legacy Suite</h1>
 		</div>
 
-		<img src="../img/accommodations/floorplans/01-UNIDAD-ROYAL-4BR.webp" alt="">
+		<img src="../img/accommodations/floorplans/grand-legacy-suite-floorplan.webp" alt="">
 
 	</div>
 
@@ -290,7 +290,7 @@
 			</div>
 
 			<button class="estates_accommodations_hotel__white__img" onclick="openEstatesThreeBedroomModal()">
-				<img src="../img/accommodations/bedrooms/Royal 3BD/03-UNIDAD-ROYAL-3BR-REC.webp" alt="">
+				<img src="../img/accommodations/bedrooms/prime-line-grand-master-suite.webp" alt="">
 
 				<div class="estates_accommodations_hotel__white__img__button">
 					<img src="../img/accommodations/plan.png" alt="">
@@ -313,7 +313,7 @@
 			<h1 class="estates_accommodations_hotel__modal__title">Grand Legacy Master Suite</h1>
 		</div>
 
-		<img src="../img/accommodations/floorplans/01-UNIDAD-ROYAL-3BR.webp" alt="">
+		<img src="../img/accommodations/floorplans/prime-line-grand-master-suite-floorplan.webp" alt="">
 
 	</div>
 
